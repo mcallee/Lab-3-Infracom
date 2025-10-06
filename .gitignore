@@ -1,0 +1,7 @@
+/build/
+/*.o
+*.o
+*.out
+*.log
+.DS_Store
+captures/*.pcap
